@@ -1,0 +1,7 @@
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\bin\Debug\p1Valkyrie.exe.config
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\bin\Debug\p1Valkyrie.exe
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\bin\Debug\p1Valkyrie.pdb
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\obj\Debug\p1Valkyrie.csprojAssemblyReference.cache
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\obj\Debug\p1Valkyrie.csproj.CoreCompileInputs.cache
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\obj\Debug\p1Valkyrie.exe
+C:\Users\Chris Badolato\Source\Repos\p1Valkyrie\p1Valkyrie\obj\Debug\p1Valkyrie.pdb
